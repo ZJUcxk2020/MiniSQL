@@ -1,0 +1,8 @@
+//
+// Created by Administrator on 2021/6/10.
+//
+
+#ifndef MINISQL_RESPONSE_H
+#define MINISQL_RESPONSE_H
+enum RESPONSE {SUCCESS,NOT_EXIST,EXIST,FAIL,ILLEGAL};
+#endif //MINISQL_RESPONSE_H
